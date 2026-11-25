@@ -1,0 +1,33 @@
+# Master Bike Inspection Report
+*Inspector: Kelvin*
+
+| S/no | Date Inspected | Inspectors Name | Location | Vin Number | Model | Mileage (KM) | 1-LH | 2-LH | 1-RH | 2-RH | Battery Cable Condition | Comment/photo |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1 | 23/11/2026 | Kelvin | | LB5DJKR29S8101181 | m1 v2 | 12955 | OK | OK | OK | OK | Scratched | Has shock lifters, external music system |
+| 2 | 23/11/2026 | Kelvin | | L6XRZS1A3T0088935 | m1 v3 | 236 | OK | OK | OK | OK | Scratched | Brake engaged, no external devices |
+| 3 | 23/11/2026 | Kelvin | | L6XRZS1A5T0041955 | m1 v3 | 4364 | OK | OK | OK | OK | Scratched | Okay |
+| 4 | 23/11/2026 | Kelvin | | LB5DJ3R29S7864660 | m1 v2 | 11209 | OK | OK | OK | OK | Scratched | Accident vehicle, has an external headlight and switch, broken crash guard, bent front fork, **Error 94** |
+| 5 | 23/11/2026 | Kelvin | | LB5DJ3R27S7840411 | m1 v2 | 35686 | OK | OK | OK | OK | Scratched | Has an improvised small rear sprocket |
+| 6 | 23/11/2026 | Kelvin | | LB5DJ3R27S7856850 | m1 v2 | 680 | OK | OK | OK | OK | Scratched | Throttle is intermittently unresponsive |
+| 7 | 23/11/2026 | Kelvin | | L6XRZS1A8T0079891 | m1 v3 | 1874 | OK | OK | OK | OK | Scratched | Motor to controller blue cable burned out, no foreign devices |
+| 8 | 23/11/2026 | Kelvin | | L6XRZS1A7T0032965 | m1 v3 | 9896 | OK | OK | OK | OK | Scratched | Broken torque rod rear wheel hub holder, missing brake rod, broken torque rod rear iron cast holder |
+| 9 | 23/11/2026 | Kelvin | | L6XRZS1A0T0039112 | m1 v3 | 8620 | OK | OK | OK | OK | Scratched | **Error 94** |
+| 10 | 23/11/2026 | Kelvin | | L6XRZS1A5T0034411 | m1 v3 | 9411 | OK | OK | OK | OK | Scratched | External hazard switch, music system, upgraded horn, decorative lights, **Error 94** |
+| 11 | 23/11/2026 | Kelvin | | LB5DJ3R20S7843812 | m1 v2 | | OK | OK | OK | OK | Scratched | Missing tracker, display not working, has shock lifters, external horn, music system |
+| 12 | 23/11/2026 | Kelvin | | L6XRZS1A9T0020090 | m1 v3 | 3986 | OK | OK | OK | OK | Scratched | **Error 30** |
+| 13 | 23/11/2026 | Kelvin | | LB5DJ3R2XS7859256 | m1 v2 | 33931 | OK | OK | OK | OK | Scratched | Has shock lifters, hazard switch, improvised modifications |
+| 14 | 23/11/2026 | Kelvin | | LB5DJ3R2XS7861685 | m1 v2 | 18145 | OK | OK | OK | OK | Scratched | Music system |
+| 15 | 23/11/2026 | Kelvin | | L6XRZS1A0T0072367 | m1 v3 | 2051 | OK | OK | OK | OK | Scratched | Okay |
+| 16 | 23/11/2026 | Kelvin | | L6XRZS1A7T0038829 | m1 v3 | 4934 | OK | OK | OK | OK | Scratched | Firmware update |
+| 17 | 23/11/2026 | Kelvin | | LB5DJ3R20S7843230 | m1 v2 | 17982 | OK | OK | OK | OK | Scratched | Has an external ignition switch and horn |
+| 18 | 23/11/2026 | Kelvin | | LB5DJ3R20S7840886 | m1 v2 | 30796 | OK | OK | OK | OK | Scratched | External ignition switch, USB cable, modified rear height and orientation, damaged motor shaft |
+| 19 | 23/11/2026 | Kelvin | | LB5DJ3R20S7843888 | m1 v2 | 30796 | OK | OK | OK | OK | Scratched | Insulation damaged |
+| 20 | 23/11/2026 | Kelvin | | LB5DJ3R2XS7843252 | m1 v2 | 9520 | OK | OK | OK | OK | Scratched | Insulation damaged, missing tracker |
+| 21 | 24/11/2026 | Kelvin | | L6XRZS1A0T0079822 | m1v3 | 2911 | OK | OK | OK | OK | Scratched | External horn, decorative lights, aftermarket seat, side mirrors |
+| 22 | 24/11/2026 | Kelvin | | LB5DJ3R25S7848942 | m1 v2 | 35203 | OK | OK | OK | OK | Scratched | Has a foreign ignition switch |
+| 23 | 24/11/2026 | Kelvin | | L6XRZS1A7T0027782 | m1v3 | 9292 | OK | OK | OK | OK | Scratched | Music system |
+| 24 | 24/11/2026 | Kelvin | | LB5DJ3R2XS7847706 | m1v2 | 30205 | OK | OK | OK | OK | Scratched | Foreign ignition switch, damaged space tank lock compartment, foreign rear wheel, damaged longer chassis, damaged motor shaft |
+| 25 | 24/11/2026 | Kelvin | | L6XRZS1A3T0042960 | m1v3 | 9773 | OK | OK | OK | OK | Scratched | Detached rear mounting for space tank door |
+| 26 | 24/11/2026 | Kelvin | | L6XRZS1A5T0087317 | m1v3 | 2095 | OK | OK | OK | OK | Scratched | Foreign side mirrors, **Error 30 update** |
+| 27 | 24/11/2026 | Kelvin | | LB5DJ3R21S7848520 | m1v2 | 4447 | OK | OK | OK | OK | Scratched | Foreign side mirrors, foreign rear wheel, music system |
+| 28 | 25/11/2026 | Kelvin | | LB5DJ3R27S7843242 | m1 v2 | 27965 | OK | OK | OK | OK | Scratched | Has a foreign headlamp, shock lifters, replaced front sprocket |
