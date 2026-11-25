@@ -1,2 +1,119 @@
-*.agdai
-**/MAlonzo/**
+AnonLink – Anonymous Messaging Platform
+
+About the Project
+
+AnonLink is a paid anonymous messaging platform where users can create personal messaging links, share them with friends, and receive anonymous messages.
+
+Users can send text messages, photos, videos, and voice notes. Recipients can reply anonymously, allowing private two-way conversations.
+
+The platform is managed by one administrator, and all payments are collected through the administrator's M-PESA Pochi la Biashara account.
+
+Main Features
+
+1. Personal Anonymous Links
+
+- Every registered user receives a unique messaging link.
+- Users can share their links on WhatsApp, Facebook, Instagram, and other platforms.
+- Users can generate and share fresh links.
+- Visitors can open a link and anonymously message its owner.
+
+2. Anonymous Messaging
+
+Users can send:
+
+- Text messages
+- Photos
+- Videos
+- Voice notes
+
+Recipients can reply anonymously and continue conversations without displaying their identities to one another.
+
+3. Paid Messaging Access
+
+Users must pay the required fee before sending messages.
+
+All payments are directed to:
+
+Payment Method: M-PESA Pochi la Biashara
+Receiving Number: 0713701438
+Payment Confirmation: Manual verification by the administrator
+
+4. Manual M-PESA Confirmation
+
+After making a payment, the user will:
+
+1. Copy the M-PESA confirmation SMS.
+2. Open the payment confirmation page.
+3. Paste the full M-PESA message into the payment form.
+4. Submit the payment for verification.
+
+The administrator will check the payment in the receiving account and approve or reject it.
+
+Messaging access will only be unlocked after administrator approval.
+
+5. Administrator Dashboard
+
+The administrator should be able to:
+
+- View registered users.
+- View submitted payments.
+- Read submitted M-PESA confirmation messages.
+- Verify payments manually.
+- Approve or reject payments.
+- View platform earnings.
+- Manage reported messages.
+- Suspend abusive accounts.
+- Manage media and storage.
+
+Technology Stack
+
+- Frontend: React and Vite
+- Backend and Database: Supabase
+- Authentication: Supabase Auth
+- Messaging: Supabase Realtime
+- Media Storage: Supabase Storage
+- Source Code: GitHub
+- Deployment: Vercel
+- Payment Method: Manual M-PESA Pochi la Biashara confirmation
+
+Security and Legal Compliance
+
+The platform should include:
+
+- Secure user authentication
+- Private conversations
+- Protected database access
+- Secure media storage
+- Payment verification
+- Duplicate transaction prevention
+- Reporting and blocking
+- Content moderation
+- Privacy policy
+- Terms and conditions
+- Data protection safeguards
+- Appropriate age restrictions
+
+Anonymous messaging must not be used for harassment, threats, fraud, or sharing illegal or non-consensual content.
+
+The platform should comply with applicable Kenyan laws, including data protection and electronic communications requirements.
+
+Project Owner
+
+The platform is managed by its administrator.
+
+All platform payments are collected through the administrator's designated M-PESA account.
+
+Development Plan
+
+Phase 1: Website design and personal messaging links
+Phase 2: User accounts and anonymous messaging
+Phase 3: Photo, video, and voice message support
+Phase 4: Manual M-PESA payment confirmation
+Phase 5: Administrator dashboard
+Phase 6: Security, moderation, and deployment
+
+Important
+
+This repository contains the source code and development documentation for AnonLink.
+
+The production platform must be securely deployed with a backend, database, authentication, and media storage. GitHub is used to manage the source code and development process.
